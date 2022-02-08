@@ -2,12 +2,12 @@ h1 {
     color: #f5f5f5;
     align: center;
     text-align: center;
-    text-size: 200px;
+    font-size: 200px;
 }
 body { 
     text-align: center;
     background-image: url("https://i.pinimg.com/originals/71/9e/80/719e80760999b4c355a723224120eb07.png");
-    text-size: 150px;
+    font-size: 150px;
 }
 #container {
     background-color: #008383;
